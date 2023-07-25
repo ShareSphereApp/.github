@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../banner.png" alt="ShareSphere Banner" width="400px" />
+  <img src="https://github.com/ShareSphereApp/.github/blob/main/banner.png" alt="ShareSphere Banner" width="400px" />
   <h1>ShareSphere Organization</h1>
 </div>
 
